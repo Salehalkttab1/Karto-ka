@@ -1,0 +1,2 @@
+# Karto-ka
+Segnal
